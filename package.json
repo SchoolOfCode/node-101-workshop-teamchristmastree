@@ -1,0 +1,19 @@
+{
+  "name": "101-workshop-teamchristmastree",
+  "version": "1.0.0",
+  "description": "practice-node-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ElenaSparshott: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@github.com/SchoolOfCode/node-101-workshop-teamchristmastree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchoolOfCode/node-101-workshop-teamchristmastree/issues"
+  },
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-teamchristmastree#readme"
+}
